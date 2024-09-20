@@ -16,9 +16,27 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+## Welcome to My Website
 
-I am a passionate researcher in the field of **Microbial Ecology**, with a keen interest in understanding how microbes thrive and interact within their ecosystems using **OMICs technologies**. My work explores the intricate mechanisms through which microorganisms sustain their communities and adapt to environmental changes.
+I am a passionate researcher in **Microbial Ecology**, with a focus on studying how microbes interact within their ecosystems using **OMICs technologies**.
 
-Currently, I am involved in a multidisciplinary project that investigates the **Drivers of Functional Redundancy across Microbiomes**. My goal is to establish an innovative pipeline that leverages **multi-OMICs approaches** to calculate functional redundancy, providing deeper insights into the stability and resilience of microbial ecosystems.
+---
 
-In my research, I strive to push the boundaries of microbial ecology and contribute to our understanding of microbial dynamics on a systems level.
+### Skills
+Here are some of the key skills that define my research and expertise:
+- **Microbial Ecology**: Expertise in analyzing microbial communities and their ecosystems.
+- **Multi-OMICs Integration**: Proficient in combining genomic and  transcriptomic data.
+- **Bioinformatics**: Skilled in developing pipelines for complex data analysis.
+- **Molecular Biology Techniques**: Experienced with various molecular biology methods.
+
+---
+
+### Current Research & Projects
+
+#### Investigating Functional Redundancy Across Microbiomes
+Currently working on a multidisciplinary project that explores the **Drivers of Functional Redundancy** in microbiomes. This project focuses on:
+- Understanding functional redundancy through **multi-OMICs approaches**.
+- Studying microbial stability and resilience in diverse ecosystems.
+- Exploring the role of Fred in recovery of microbiome after a irreversible distrubence in the ecosytem
+
+Explore my [Projects](/projects/) page for more details on other research endeavors.
