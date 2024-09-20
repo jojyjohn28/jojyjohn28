@@ -10,7 +10,7 @@ permalink: /contact/
 155 B, Life Science Building  
 Department of Biological Science  
 Clemson University, South Carolina  
-Email: [jojyj@clemson.edu](mailto:jojyj@clemson.edu)
+Email: [jojyj@clemson.edu](mailto:jojyj@clemson.edu) or [jojyjon@gmail.com](mailto:jojyjon@gmail.com)
 
 ---
 
