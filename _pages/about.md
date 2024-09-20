@@ -15,15 +15,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-social_links:
-  - icon: "fa-envelope"
-    link: "mailto:jojyj@clemson.edu"
-  - icon: "fa-github"
-    link: "https://github.com/jojyjohn28"
-  - icon: "fa-twitter"
-    link: "https://x.com/JojyJon"
-  - icon: "fa-linkedin"
-    link: "https://www.linkedin.com/in/jojyjohn28/"
+
 
 ---
 ## Welcome to My Website
