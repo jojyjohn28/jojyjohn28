@@ -1,16 +1,13 @@
 ---
 layout: page
-title: submenus changed
+title: Resources
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: contact
+    permalink: /contact/
   - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: codes
+    permalink: /codes/
 ---
