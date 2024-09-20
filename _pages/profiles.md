@@ -13,16 +13,17 @@ profiles:
     image: prof_pic.jpg
     content: about.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-    <p>155 B, Life Science Building</p>
-    <p>Department of Biological science</p>
-    <p>Clemson University, South Carolina</p>
+    more_info: |
+      <p>155 B, Life Science Building</p>
+      <p>Department of Biological Science</p>
+      <p>Clemson University, South Carolina</p>
+
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-    <p>155 B, Life Science Building</p>
-    <p>Department of Biological science</p>
-    <p>Clemson University, South Carolina</p>
+    more_info: |
+      <p>155 B, Life Science Building</p>
+      <p>Department of Biological Science</p>
+      <p>Clemson University, South Carolina</p>
 ---
