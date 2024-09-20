@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-01-216 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+AAAS Membership and SCIENCE Magazine Subscription nominated by  Cynthia Y. Young Dean of  College of Science,Clemson University.
