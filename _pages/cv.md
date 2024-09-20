@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: [/cv/](https://github.com/jojyjohn28/jojyjohn28.github.io/tree/master/assets/pdf)
+permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
