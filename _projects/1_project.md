@@ -17,11 +17,11 @@ category: work
 Life in salt pans with varying chemical compositions requires unique adaptation strategies at both the physiological and molecular levels. The Marakkanam salt pan in South India is characterized by a high fluctuation in salinity (19–490 ppt), ultraviolet radiation, and heavy metal concentrations.Several bacterial species have been isolated and identified through phylogenetic analysis for the subsequent production of industrially important enzymes. However, limited information exists on the genomic basis of their survival under variable environmental conditions. In this context, I am interested in characterizing cultivable and uncultivable halophilic bacteria inhabiting the Marakkanam saltpan located in south India and using one abundant strain (Salinivibrio) as a model organism to understand the genomic basis of adaption under varying stress. 
 
 ## Relevant publications
- * [Life in High Salt Concentrations with Changing Environmental Conditions: Insights from Genomic and Phenotypic Analysis of Salinivibrio sp.](https://www.mdpi.com/2076-2607/7/11/577) 2019.  **Jojy John, Vinu Siva, Kumari Richa, and Aditya Arya, Amit Kumar .Microorganisms
- * [Unveiling cultivable and uncultivable halophilic bacteria inhabiting Marakkanam saltpan, India and their potential for biotechnological applications](https://www.tandfonline.com/doi/pdf/10.1080/01490451.2020.1764676) 2020. **Jojy John, Vinu Siva, Kumari Richa, and Aditya Arya, Amit Kumar.Geomicrobiology Journal
+ * [Life in High Salt Concentrations with Changing Environmental Conditions: Insights from Genomic and Phenotypic Analysis of Salinivibrio sp.](https://www.mdpi.com/2076-2607/7/11/577) 2019.**Jojy John, Vinu Siva, Kumari Richa, and Aditya Arya, Amit Kumar .Microorganisms
+ * [Unveiling cultivable and uncultivable halophilic bacteria inhabiting Marakkanam saltpan, India and their potential for biotechnological applications](https://www.tandfonline.com/doi/pdf/10.1080/01490451.2020.1764676) 2020.**Jojy John, Vinu Siva, Kumari Richa, and Aditya Arya, Amit Kumar.Geomicrobiology Journal
 
 ## Posters and Presentations
-*John, J., Siva, V., Kumar A. 2018. Biotechnological Potential of Moderately Halotolerant Bacteria: Insights from Genomic Analysis of Salinivibrio sp. Isolated from Salt Pan. Proceedings of the National
+*John, J., Siva, V., Kumar A. 2018. **Biotechnological Potential of Moderately Halotolerant Bacteria: Insights from Genomic Analysis of Salinivibrio sp. Isolated from Salt Pan. Proceedings of the National
 Symposium on the Application of Genomics and Proteomics in Aquaculture, Fisheries, & Marine Biology (omicsAFM 2018), Sathyabama Institute of Science and Technology, 13. (Best oral presentation award)
 
 <html>
