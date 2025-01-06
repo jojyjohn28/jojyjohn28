@@ -97,4 +97,3 @@ jobs:
         run: |
           chmod a+x bin/*
           git commit -am "add execute permission to bin/deploy"
-

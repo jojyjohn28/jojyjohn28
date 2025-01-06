@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-AAAS Membership and SCIENCE Magazine Subscription nominated by  Cynthia Y. Young Dean of  College of Science,Clemson University.
+AAAS Membership and SCIENCE Magazine Subscription nominated by Cynthia Y. Young Dean of College of Science,Clemson University.
